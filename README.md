@@ -1,4 +1,4 @@
-![React Avançado](https://raw.githubusercontent.com/kaiquegl/nextjs-boilerplate/main/public/img/react-and-next.png)
+![React Avançado](https://raw.githubusercontent.com/kaiquegl/nextjs-boilerplate/main/public/img/react_and_next.png)
 
 This is a [Next.js](https://nextjs.org/) boilerplate to be used in projects of my own;
 
