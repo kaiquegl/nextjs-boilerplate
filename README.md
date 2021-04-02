@@ -17,7 +17,7 @@ This project uses lot of stuff as:
 
 ## Getting Started
 
-@@ -14,6 +30,17 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
